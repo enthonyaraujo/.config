@@ -1,1 +1,5 @@
-minhas configuações da waybar para o hyprland
+Hyprland Configs
+
+<p align="center">
+<img title="a title" alt="Alt text" src="/hypr/wallpaper.jpg">
+</p>
